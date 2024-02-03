@@ -1,1 +1,2 @@
 ini adalah example txt
+ini adalah new line at example.txt
